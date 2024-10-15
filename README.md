@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👩‍💻 Mariia Semenova | Head of Web Analytics | Digital Strategist & Educator
 
 Welcome! I’m Mariia, a passionate leader in web analytics with over a decade of experience in the digital marketing world. I thrive on creating data-driven strategies that help businesses grow through actionable insights and process automation. My expertise spans everything from designing scalable analytics systems to overseeing the development of advanced reporting frameworks.
 
