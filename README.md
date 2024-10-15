@@ -22,7 +22,7 @@ Blondinka.Ru (2014 – 2016): Developed and managed digital advertising campaign
 
 📊 Core Skills 
 
-Web Analytics, Google Analytics (GA), Google Tag Manager (GTM), Google BigQuery, Data Studio, Automation of Reporting Systems, Data-Driven Marketing
+Web Analytics, Google Analytics (GA), Google Tag Manager (GTM), Google BigQuery, Data Studio, SQL, Automation of Reporting Systems, Data-Driven Marketing
 
 🎓 Teaching
 
