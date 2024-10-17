@@ -18,6 +18,7 @@ Welcome! I’m Mariia, a passionate leader in web analytics with over a decade o
 🚀 Professional Experience 
 
 Adventum (2016-Present): Grew from a web analyst to head of the web analytics department. Implemented complex data collection and analysis solutions, designed customer journey mapping, and led data-driven A/B testing for clients.
+
 Blondinka.Ru (2014 – 2016): Developed and managed digital advertising campaigns while providing in-depth performance analysis using advanced web analytics tools.
 
 📊 Core Skills 
